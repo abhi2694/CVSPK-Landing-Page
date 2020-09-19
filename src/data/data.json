@@ -1,0 +1,54 @@
+{
+    "Header": {
+
+        "title": "NSUT CVSPK SCHOLARSHIP SCHEME",
+        "paragraph": "A financial assistance scheme for its students by the name of Chhatra Vittiya Sahayta Evam Protsahan Kosh (CVSPK) from the academic session 2020-21"
+
+    },
+    "About": {
+        "paragraph": "Netaji Subhas University of Technology (NSUT) proposes to run a financial assistance scheme for its students by the name of Chhatra Vittiya Sahayta Evam Protsahan Kosh (CVSPK) from the academic session 2020-21.",
+        "Why": [
+            "CVSPK Talent Incentive Scheme TIS",
+            "CVSPK FWS Financial Assistance Scheme",
+            "CVSPK Fee reimbursement /waiver in case of death of earning parent(s)."
+        ]
+    },
+    "Services": [{
+            "icon": "img/team/abhinav.jpeg",
+            "name": "Talent Incentive Scheme",
+            "text": "The types of students can apply under this scheme are those who are already enrolled in the university,those who are seeking admission to the university or those who have already passed out from the university i.e. alumni of the university"
+        },
+        {
+            "icon": "img/team/abhinav.jpeg",
+            "name": "FWS Financial Assistance Scheme",
+            "text": "The scheme is open to all the students of the University who fulfill the eligibility criteria"
+        },
+        {
+            "icon": "img/team/abhinav.jpeg",
+            "name": "Reimbursement/Waiver in case of death of parent",
+            "text": " In the event of death of earning parent(s), the student should submit to the office of Dean Students welfare, the duly signed form by the Head of department in Annexure’C’ alongwith necessary documents within 90 days of death"
+        }
+
+
+    ],
+    "Team": [{
+            "img": "img/team/abhinav.jpeg",
+            "name": "Dr. Ritu Sibal",
+            "job": "Professor, Computer Engineering Department"
+        },
+        {
+            "img": "img/team/abhinav.jpeg",
+            "name": "Dr. Ritu Sibal",
+            "job": "Professor, Computer Engineering Department"
+        }, {
+            "img": "img/team/abhinav.jpeg",
+            "name": "Dr. Ritu Sibal",
+            "job": "Professor, Computer Engineering Department"
+        },
+        {
+            "img": "img/team/abhinav.jpeg",
+            "name": "Dr. Ritu Sibal",
+            "job": "Professor, Computer Engineering Department"
+        }
+    ]
+}
